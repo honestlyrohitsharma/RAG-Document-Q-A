@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+langchain-text-splitters
+langchain-groq
+langchain-chroma
+chromadb
+pypdf
+sentence-transformers
+python-dotenv
+ragas
+datasets
+shutil  # usually already available
