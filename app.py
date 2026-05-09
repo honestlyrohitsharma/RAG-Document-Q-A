@@ -15,9 +15,9 @@ from langchain_classic.chains.combine_documents import create_stuff_documents_ch
 from langchain_core.prompts import ChatPromptTemplate
 
 # RAGAS
-from ragas import evaluate
-from ragas.metrics import faithfulness, answer_relevancy, context_precision, context_recall
-from datasets import Dataset
+#from ragas import evaluate
+#from ragas.metrics import faithfulness, answer_relevancy, context_precision, context_recall
+#from datasets import Dataset
 
 load_dotenv()
 
