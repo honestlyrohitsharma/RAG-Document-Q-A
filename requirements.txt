@@ -1,4 +1,5 @@
 streamlit
+python-dotenv
 langchain
 langchain-community
 langchain-text-splitters
@@ -7,7 +8,3 @@ langchain-chroma
 chromadb
 pypdf
 sentence-transformers
-python-dotenv
-ragas
-datasets
-shutil  # usually already available
